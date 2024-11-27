@@ -14,3 +14,5 @@ $('.hero').owlCarousel({
         }
     }
 })
+
+  AOS.init();
