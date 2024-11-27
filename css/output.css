@@ -970,6 +970,10 @@ video {
   background-image: url('../images/whatWeOfferBg.svg');
 }
 
+.bg-services-bg {
+  background-image: url('../images/whoWeAreImg1.jpeg');
+}
+
 .bg-contain {
   background-size: contain;
 }
